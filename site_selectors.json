@@ -1,0 +1,43 @@
+{
+    "common": {
+        "first_name": {"by": "name", "value": "firstName"},
+        "last_name": {"by": "name", "value": "lastName"},
+        "email": {"by": "name", "value": "email"},
+        "phone": {"by": "name", "value": "phone"},
+        "resume_upload": {"by": "css", "value": "input[type='file']"},
+        "submit": {"by": "css", "value": "button[type='submit']"}
+    },
+    "linkedin": {
+        "login": {
+            "username": {"by": "id", "value": "username"},
+            "password": {"by": "id", "value": "password"},
+            "submit": {"by": "xpath", "value": "//button[@type='submit']"}
+        },
+        "application": {
+            "first_name": {"by": "id", "value": "firstName"},
+            "last_name": {"by": "id", "value": "lastName"},
+            "email": {"by": "id", "value": "email"},
+            "resume_upload": {"by": "css", "value": "input[type='file']"},
+            "submit": {"by": "css", "value": "button[aria-label='Submit application']"}
+        }
+    },
+    "indeed": {
+        "application": {
+            "first_name": {"by": "id", "value": "applicant.name"},
+            "email": {"by": "id", "value": "applicant.email"},
+            "phone": {"by": "id", "value": "applicant.phone"},
+            "resume_upload": {"by": "id", "value": "applicant.resume"},
+            "submit": {"by": "id", "value": "apply-button"}
+        }
+    },
+    "greenhouse": {
+        "application": {
+            "first_name": {"by": "id", "value": "first_name"},
+            "last_name": {"by": "id", "value": "last_name"},
+            "email": {"by": "id", "value": "email"},
+            "phone": {"by": "id", "value": "phone"},
+            "resume_upload": {"by": "id", "value": "resume"},
+            "submit": {"by": "id", "value": "submit_app"}
+        }
+    }
+}
