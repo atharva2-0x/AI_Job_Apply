@@ -1,20 +1,20 @@
 {
     "personal": {
-        "first_name": "John",
-        "last_name": "Doe",
-        "email": "john.doe@example.com",
-        "phone": "+1234567890",
-        "linkedin": "https://linkedin.com/in/johndoe"
+        "first_name": "Atharva",
+        "last_name": "Swami",
+        "email": "atharva2.ox@gmail.com",
+        "phone": "7397835552",
+        "linkedin": "https://linkedin.com/in/atharva-swami-20779a209/"
     },
     "professional": {
-        "summary": "Experienced software engineer...",
-        "skills": ["Python", "AWS", "Machine Learning"],
+        "summary": "Software Developer intern with hands-on experience in Java backend development and a solid understanding of embedded and cloud edge software. Skilled in software design, development, and validation with a proven ability to troubleshoot and integrate solutions. Strong communicator and team player with experience in technical documentation and code review processes",
+        "skills": ["Python", "AWS", "Machine Learning", "RAG", "Reinforcement Learning", "Java", "C++", "SQL", "MongoDB", "Software Validation", "Unit Testing", "Debugging", "Code Reviews"],
         "experience": [
             {
                 "title": "Senior Developer",
-                "company": "Tech Corp",
-                "duration": "2020-Present",
-                "bullets": ["Led team of 5 developers", "Optimized AWS costs by 30%"]
+                "company": "Fiserv",
+                "duration": "2024-Present",
+                "bullets": ["Developed and Maintained backend applications using Java and Python focusing on unit testing, code reviews and debugging to improve software reliability.", "Designed and developed developed a generative AI tool to process large input files. Colaborated accross developement and devops teams to automate generic tasks.", "Fine Tuned personalized chat assistant solution to assist business requirements and developer needs"]
             }
         ]
     },
