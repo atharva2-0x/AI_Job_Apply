@@ -1,0 +1,25 @@
+{
+    "personal": {
+        "first_name": "John",
+        "last_name": "Doe",
+        "email": "john.doe@example.com",
+        "phone": "+1234567890",
+        "linkedin": "https://linkedin.com/in/johndoe"
+    },
+    "professional": {
+        "summary": "Experienced software engineer...",
+        "skills": ["Python", "AWS", "Machine Learning"],
+        "experience": [
+            {
+                "title": "Senior Developer",
+                "company": "Tech Corp",
+                "duration": "2020-Present",
+                "bullets": ["Led team of 5 developers", "Optimized AWS costs by 30%"]
+            }
+        ]
+    },
+    "auth": {
+        "linkedin_username": "your_username",
+        "linkedin_password": "your_password"
+    }
+}
